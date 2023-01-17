@@ -1,27 +1,23 @@
-Привет!
-
-<h1 align="center">Привет, я Саша
+<div id="header" align="center">
+  <img src="pepefrg-65.gif" width="400"/>
+</div>
+<h1 align="center">Привет, я Александр
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я Manual Middle-QA <a href="https://www.ao-rr.ru/projects/social-id/"> АО Расчетные решения</a>, который погружается в автоматизацию :) </br></h3>
+<h3 align="center">Я Manual Middle-QA <a href="https://www.ao-rr.ru/projects/social-id/"> АО Расчетные решения</a>, который погружается в автоматизацию :)</h3>
+<h4 align="center">Являюсь также действующий преподавателем на курсах по ручному тестированию <a href="https://sedtest-school.ru/"> Школа седого тестировщика</a> (<a href="https://vk.com/zapiskisedogotestera">группа в ВК</a>)</h4>
 
 
-Меня зовут Саша 🐾 </br>
-Я Manual Middle-QA <a href="https://www.ao-rr.ru/projects/social-id/"> АО Расчетные решения</a>, который погружается в автоматизацию :) </br>
-Мой профили в:
-- <a href="https://www.linkedin.com/in/nyashin-alex/"> Linkedin</a>
-- <a href="https://t.me/nyashin_alex"> Telegram</a>
+
+### Мой профили в:
+- #### <a href="https://www.linkedin.com/in/nyashin-alex/"> Linkedin</a>
+- #### <a href="https://t.me/nyashin_alex"> Telegram</a>
 ---
-Являюсь также действиющим преподавателем на курсах по ручному тестированию <a href="https://sedtest-school.ru/"> Школа седого тестировщика</a> (<a href="https://vk.com/zapiskisedogotestera">группа в ВК</a>)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NyashinAlex&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-Пишу тесты на JAVA. Недавно закончил курсы в QA QURU
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NyashinAlex&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### ``` Мой pet-проект: ```
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NyashinAlex&repo=Spoonacular_API_UI&theme=dark" />
-</a>
+### Моя статистика
+<div id="stat" align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyashinAlex&theme=gruvbox"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NyashinAlex&theme=gruvbox"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NyashinAlex&theme=gruvbox"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NyashinAlex&theme=gruvbox"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NyashinAlex&theme=gruvbox&utcOffset=8"/>
+</div>
 
