@@ -1,18 +1,22 @@
 Привет!
 
-Меня зовут Саша
-Я Manual Middle-QA, который погружается в автоматизацию :) </br>
+Меня зовут Саша 🐾 </br>
+Я Manual Middle-QA <a href="https://www.ao-rr.ru/projects/social-id/"> АО Расчетные решения</a>, который погружается в автоматизацию :) </br>
 Мой профили в:
 - <a href="https://www.linkedin.com/in/nyashin-alex/"> Linkedin</a>
 - <a href="https://t.me/nyashin_alex"> Telegram</a>
+---
+Являюсь также действиющим преподавателем на курсах по ручному тестированию <a href="https://sedtest-school.ru/"> Школа седого тестировщика</a> (<a href="https://vk.com/zapiskisedogotestera">группа в ВК</a>)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NyashinAlex&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+Пишу тесты на JAVA. Недавно закончил курсы в QA QURU
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NyashinAlex&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### ``` Мой пет-проект: ```
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NyashinAlex&repo=Spoonacular_API_UI&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NyashinAlex&repo=ru.hh&theme=dark" />
-</a>
+
