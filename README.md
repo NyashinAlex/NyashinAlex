@@ -1,5 +1,10 @@
 Привет!
 
+<h1 align="center">Привет, я Саша
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Я Manual Middle-QA <a href="https://www.ao-rr.ru/projects/social-id/"> АО Расчетные решения</a>, который погружается в автоматизацию :) </br></h3>
+
+
 Меня зовут Саша 🐾 </br>
 Я Manual Middle-QA <a href="https://www.ao-rr.ru/projects/social-id/"> АО Расчетные решения</a>, который погружается в автоматизацию :) </br>
 Мой профили в:
@@ -14,7 +19,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NyashinAlex&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### ``` Мой пет-проект: ```
+### ``` Мой pet-проект: ```
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NyashinAlex&repo=Spoonacular_API_UI&theme=dark" />
