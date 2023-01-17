@@ -6,11 +6,21 @@
 <h3 align="center">Я Manual Middle-QA <a href="https://www.ao-rr.ru/projects/social-id/"> АО Расчетные решения</a>, который погружается в автоматизацию :)</h3>
 <h4 align="center">Являюсь также действующий преподавателем на курсах по ручному тестированию <a href="https://sedtest-school.ru/"> Школа седого тестировщика</a> (<a href="https://vk.com/zapiskisedogotestera">группа в ВК</a>)</h4>
 
+---
 
+### Мой профили в различных социальных сетях:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/nyashin-alex/">
+   <h3 align="center"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </h3>
+  </a>
+  <a href="https://t.me/nyashin_alex">
+    <h3 align="center"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/> </h3>
+  </a>
+  <a href="https://vk.com/alex_nyashin">
+    <h3 align="center"> <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Twitter Badge"/> </h3>
+  </a>
+</div>
 
-### Мой профили в:
-- #### <a href="https://www.linkedin.com/in/nyashin-alex/"> Linkedin</a>
-- #### <a href="https://t.me/nyashin_alex"> Telegram</a>
 ---
 ### Моя статистика
 <div id="stat" align="center">
