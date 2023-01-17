@@ -11,7 +11,7 @@
 ### Мой профили в различных социальных сетях:
 <div id="badges">
   <a href="https://www.linkedin.com/in/nyashin-alex/">
-   <h3 align="center"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </h3>
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/nyashin_alex">
     <h3 align="center"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/> </h3>
