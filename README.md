@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Привет, я Александр
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я Manual Middle-QA <a href="https://www.ao-rr.ru/projects/social-id/"> АО Расчетные решения</a>, который погружается в автоматизацию :)</h3>
+<h3 align="center">Я Manual Middle-QA <a href="https://www.ao-rr.ru/projects/social-id/"> АО Расчетные решения</a>, который погружается в автоматизацию <img src="pepa.png" height="20"/></h3>
 <h4 align="center">Являюсь также действующий преподавателем на курсах по ручному тестированию <a href="https://sedtest-school.ru/"> Школа седого тестировщика</a> (<a href="https://vk.com/zapiskisedogotestera">группа в ВК</a>)</h4>
 
 ---
