@@ -3,12 +3,12 @@
 </div>
 <h1 align="center">Привет, я Александр
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я Manual Middle-QA <a href="https://www.ao-rr.ru/projects/social-id/"> АО Расчетные решения</a>, который погружается в автоматизацию <img src="pepa.png" height="20"/></h3>
-<h4 align="center">Являюсь также действующий преподавателем на курсах по ручному тестированию <a href="https://sedtest-school.ru/"> Школа седого тестировщика</a> (<a href="https://vk.com/zapiskisedogotestera">группа в ВК</a>)</h4>
+<h3 align="center">Manual Middle-QA <a href="https://www.ao-rr.ru/projects/social-id/"> АО Расчетные решения</a>, который погружается в автоматизацию <img src="pepa.png" height="20"/></h3>
+<h4 align="center">Являюсь также действующим преподавателем на курсах по ручному тестированию <a href="https://sedtest-school.ru/"> Школа седого тестировщика</a> (<a href="https://vk.com/zapiskisedogotestera">группа в ВК</a>)</h4>
 
 ---
 
-### Мой профили в различных социальных сетях:
+### Мои профили в различных социальных сетях:
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nyashin-alex/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
