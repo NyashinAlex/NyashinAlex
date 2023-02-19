@@ -19,7 +19,7 @@
   <a href="https://vk.com/alex_nyashin">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</div> 
 
 ---
 ### Моя статистика
