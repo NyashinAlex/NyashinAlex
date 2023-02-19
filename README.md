@@ -31,6 +31,15 @@
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NyashinAlex&theme=gruvbox&utcOffset=8"/>
 </div>
 
+![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=NyashinAlex&theme=gruvbox)
+
+<div align="center">
+  <h2 align="center"> Мой проект </h2><br>
+  <a href="https://github.com/NyashinAlex/Spoonacular_API_UI" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=NyashinAlex&theme=gruvbox&repo=Spoonacular_API_UI" height="150px" alt="Authentic Pinoy Recipes"/>
+  </a>
+</div>
+
 ---
 ### Технологии и инструменты, с которыми работаю
 
