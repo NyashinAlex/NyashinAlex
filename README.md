@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Привет, я Александр
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Manual Middle-QA <a href="https://www.ao-rr.ru/projects/social-id/"> АО Расчетные решения</a>, который погружается в автоматизацию</h3>
+<h3 align="center">Manual/Auto QA <a href="https://inno.tech/ru/"> ГК «Иннотех»</a>, который погружается в автоматизацию на Java</h3>
 <h4 align="center">Являюсь также действующим преподавателем на курсах по ручному тестированию <a href="https://sedtest-school.ru/"> Школа седого тестировщика</a> (<a href="https://vk.com/zapiskisedogotestera">группа в ВК</a>)</h4>
 
 ---
@@ -37,9 +37,6 @@
   <h2 align="center"> Мои проекты </h2><br>
   <a href="https://github.com/NyashinAlex/Spoonacular_API_UI" target="_blank">
     <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=NyashinAlex&theme=gruvbox&repo=Spoonacular_API_UI" height="150px" alt="Authentic Pinoy Recipes"/>
-  </a>
-  <a href="https://github.com/NyashinAlex/GitHub" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=NyashinAlex&theme=gruvbox&repo=GitHub" height="150px" alt="Authentic Pinoy Recipes"/>
   </a>
 </div>
 
