@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="pepefrg-65.gif" width="400"/>
+  <img src="pepe-peppo.gif" width="400"/>
 </div>
 <h1 align="center">Привет, я Александр
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
@@ -24,17 +24,17 @@
 ---
 ### Моя статистика
 <div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyashinAlex&theme=gruvbox"/>
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NyashinAlex&theme=gruvbox"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NyashinAlex&theme=gruvbox"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NyashinAlex&theme=gruvbox"/>
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NyashinAlex&theme=gruvbox&utcOffset=8"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyashinAlex&theme=dracula"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NyashinAlex&theme=dracula"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NyashinAlex&theme=dracula"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NyashinAlex&theme=dracula"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NyashinAlex&theme=dracula&utcOffset=3"/>
 </div>
 
-![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=NyashinAlex&theme=gruvbox)
+![NyashinAlex github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NyashinAlex&theme=dracula)
 
 <div align="center">
-  <h2 align="center"> Мои проекты </h2><br>
+  <h2 align="center">Мои проекты </h2><br>
   <a href="https://github.com/NyashinAlex/Spoonacular_API_UI" target="_blank">
     <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=NyashinAlex&theme=gruvbox&repo=Spoonacular_API_UI" height="150px" alt="Authentic Pinoy Recipes"/>
   </a>
