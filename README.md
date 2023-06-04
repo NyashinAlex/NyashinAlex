@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="pepe-peppo.gif" width="400"/>
+  <img src="sad-frog.gif" width="400"/>
 </div>
 <h1 align="center">Привет, я Александр
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
