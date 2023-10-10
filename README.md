@@ -21,8 +21,6 @@
   </a>
 </div>
 
-![Coverity Scan](https://img.shields.io/coverity/scan/695896684)
-
 ---
 ### Моя статистика
 <div id="stat" align="center">
