@@ -17,9 +17,11 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://vk.com/alex_nyashin">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/vk-blue?logo=vk&style=for-the-badge"/>
   </a>
-</div> 
+</div>
+
+![Coverity Scan](https://img.shields.io/coverity/scan/695896684)
 
 ---
 ### Моя статистика
