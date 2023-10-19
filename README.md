@@ -36,10 +36,10 @@
 <div align="center">
   <h2 align="center">Мои проекты </h2><br>
   <a href="https://github.com/NyashinAlex/Spoonacular_API_UI" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=NyashinAlex&theme=dracula&repo=Spoonacular_API_UI" height="150px" alt="Authentic Pinoy Recipes"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NyashinAlex&theme=dracula&repo=Spoonacular_API_UI" height="150px" alt="Authentic Pinoy Recipes"/>
   </a>
   <a href="https://github.com/NyashinAlex/ZodiacProject" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=NyashinAlex&theme=dracula&repo=ZodiacProject" height="150px" alt="Authentic Pinoy Recipes"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NyashinAlex&theme=dracula&repo=ZodiacProject" height="150px" alt="Authentic Pinoy Recipes"/>
   </a>
 </div>
 
