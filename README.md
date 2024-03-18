@@ -21,7 +21,7 @@
 </div>
 
 ---
-### Моя статистика
+### Моя статистика:
 <div id="stat" align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyashinAlex&theme=dracula"/>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NyashinAlex&theme=dracula"/>
