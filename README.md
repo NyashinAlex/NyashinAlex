@@ -43,7 +43,7 @@
 </div>
 
 ---
-### Технологии и инструменты которые применяю в своей работе\проектах
+### Технологии и инструменты, которые применяю в своей работе\проектах
 
 <p align="center">
 <a href="https://www.jetbrains.com/idea/"><img src="resources/images/logo/Idea.svg" width="50" height="50"  alt="IDEA"/></a>
