@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img src="this-is-fine-this-is-fine-dog.gif" width="400"/>
 </div>
-<h1 style="text-align: center;">Привет, я Александр - Manual/Auto QA
+<h1 align="center">Привет, я Александр - Manual/Auto QA
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
-<h3 style="text-align: center;">Являюсь также действующим преподавателем на курсах по ручному тестированию<a href="https://sedtest-school.ru/"> Школа седого тестировщика</a> (<a href="https://vk.com/zapiskisedogotestera">группа в ВК</a>)</h3>
+<h3 align="center">Являюсь также действующим преподавателем на курсах по ручному тестированию<a href="https://sedtest-school.ru/"> Школа седого тестировщика</a> (<a href="https://vk.com/zapiskisedogotestera">группа в ВК</a>)</h3>
 
 ---
 
